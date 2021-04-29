@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises"
+date:   2020-06-30
+image: /images/csa.png
+categories: research
+authors: "<strong>Bin Yan</strong>, Dong Wang, Huchuan Lu, Xiaoyun Yang"
+venue: "CVPR"
+arxiv: https://arxiv.org/pdf/2003.09595.pdf
+code: https://github.com/MasterBin-IIAU/CSA#csa
+---
+
+We present the Cooling-Shrinking Attack (CSA) to deceive object trackers. An effective and efficient perturbation generator is trained with a carefully designed adversarial loss, which can simultaneously cool hot regions where the target exists on the heatmaps and force the predicted bounding box to shrink. Our method can effectively fool the trackers by adding small perturbations to the template or the search regions and has good transferability.
