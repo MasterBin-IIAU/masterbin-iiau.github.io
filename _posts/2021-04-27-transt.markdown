@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Transformer Tracking"
+date:   2021-04-27
+image: /images/transt.png
+categories: research
+authors: "Xin Chen*, <strong>Bin Yan*</strong>, Jiawen Zhu, Dong Wang, Xiaoyun Yang, Huchuan Lu
+venue: "CVPR"
+arxiv: https://arxiv.org/pdf/2103.15436.pdf
+code: https://github.com/chenxin-dlut/TransT#transt
+---
+
+We present a Transformer tracking method named TransT, which effectively combines the template and search region features solely using attention. The proposed method includes an ego-context augment module based on self-attention and a cross-feature augment module based on cross-attention. TransT achieves very promising results on six challenging datasets, especially on large-scale LaSOT, TrackingNet, and GOT-10k benchmarks. 
