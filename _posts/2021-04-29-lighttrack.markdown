@@ -10,4 +10,4 @@ arxiv: https://arxiv.org/pdf/2003.11540.pdf
 code: https://github.com/researchmm/LightTrack#lighttrack
 ---
 
-We introduce an end-to-end trainable video object segmentation architecture that integrates a differentiable few-shot learning module to segment the taget object. We further go beyond standard few-shot learning techniques by learning what the few-shot learner should learn, in order to maximize segmentation accuracy. Our approach sets a new state-ofthe-art on the large-scale YouTube-VOS 2018 dataset.
+We present LightTrack, which uses neural architecture search to design more lightweight and efficient object trackers. It can find trackers that achieve superior performance compared to handcrafted SOTA trackers, while using much fewer model Flops and parameters. On Snapdragon 845 Adreno GPU, LightTrack runs 12x faster than Ocean, while using 13x fewer parameters and 38x fewer Flops. 
