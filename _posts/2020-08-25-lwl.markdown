@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Learning What to Learn for Video Object Segmentation"
+date:   2020-08-25
+image: /images/lwl.png
+categories: research
+authors: "<strong>Goutam Bhat*</strong>, Felix Järemo Lawin*, Martin Danelljan, Andreas Robinson, Michael Felsberg, Luc Van Gool, Radu Timofte"
+venue: "ECCV"
+arxiv: https://arxiv.org/pdf/2003.11540.pdf
+code: https://github.com/visionml/pytracking#lwl
+type: "Oral Presentation"
+---
+
+We introduce an end-to-end trainable video object segmentation architecture that integrates a differentiable few-shot learning module to segment the taget object. We further go beyond standard few-shot learning techniques by learning what the few-shot learner should learn, in order to maximize segmentation accuracy. Our approach sets a new state-ofthe-art on the large-scale YouTube-VOS 2018 dataset.

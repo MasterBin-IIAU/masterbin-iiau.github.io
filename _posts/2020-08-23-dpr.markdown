@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Energy-Based Models for Deep Probabilistic Regression"
+date:   2020-08-23
+image: /images/dpr.png
+categories: research
+authors: "Fredrik K. Gustafsson, Martin Danelljan, <strong>Goutam Bhat</strong>, Thomas B. Schön"
+venue: "ECCV"
+arxiv: https://arxiv.org/pdf/1909.12297.pdf
+code: https://github.com/fregu856/ebms_regression
+---
+
+We propose a general and conceptually simple regression method with a clear probabilistic interpretation. We create an energy-based model of the conditional target density p(y\|x), using a deep neural network to predict the un-normalized density from (x, y). This model of p(y\|x) is trained by directly minimizing the associated negative log-likelihood, approximated using Monte Carlo sampling. 
+
+#Our approach outperforms direct regression, as well as other probabilistic and confidence-based methods on four computer vision regression tasks, including object detection and visual tracking.

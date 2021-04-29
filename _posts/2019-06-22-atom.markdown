@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "ATOM: Accurate Tracking by Overlap Maximization"
+date:   2019-06-22
+image: /images/atom.png
+categories: research
+authors: "Martin Danelljan*, <strong>Goutam Bhat*</strong>, Fahad Shahbaz Khan, Michael Felsberg"
+venue: "CVPR"
+arxiv: https://arxiv.org/pdf/1811.07628.pdf
+code: https://github.com/visionml/pytracking#atom
+type: "Oral Presentation"
+---
+
+We address the problem of estimating accurate bounding box in generic object tracking. We train a target estimation component offline to predict the overlap between the target object and an estimated
+bounding box, conditioned on the initial target appearance. We further introduce a target classification component that is trained online to guarantee high discriminative power in the presence of distractors. 

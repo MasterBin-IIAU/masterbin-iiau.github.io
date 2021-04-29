@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Know Your Surroundings: Exploiting Scene Information for Object Tracking"
+date:   2020-08-25
+image: /images/kys.png
+categories: research
+authors: "<strong>Goutam Bhat</strong>, Martin Danelljan, Luc Van Gool, Radu Timofte"
+venue: "ECCV"
+arxiv: https://arxiv.org/pdf/2003.11014.pdf
+code: https://github.com/visionml/pytracking#kys
+---
+
+We propose a novel tracking architecture which can exploit the knowledge about the presence and locations of other objects in the surrounding scene to prevent tracking failure. Our tracker represents such information as dense localized state vectors. These state vectors are propagated through the sequence by computing a dense correspondence and combined with the appearance model output to localize the target.

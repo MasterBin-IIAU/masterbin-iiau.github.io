@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Unveiling the Power of Deep Tracking"
+date:   2018-09-10
+image: /images/updt.png
+categories: research
+authors: "<strong>Goutam Bhat</strong>, Joakim Johnander, Martin Danelljan, Fahad Shahbaz Khan, Michael Felsberg"
+venue: "ECCV"
+arxiv: https://arxiv.org/pdf/1804.06833.pdf
+---
+
+We investigate the causes behind the limited success of using deep features for tracking. We identify the limited data and low spatial resolution of deep features as the main challenges, and propose strategies to counter these issues. Furthermore, we propose a novel adaptive fusion approach that leverages the complementary properties of deep and shallow features to improve both robustness and accuracy.
+	

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "ECO: Efficient Convolution Operators for Tracking"
+date:   2017-07-22
+image: /images/eco.png
+categories: research
+authors: "Martin Danelljan, <strong>Goutam Bhat</strong>, Fahad Shahbaz Khan, Michael Felsberg"
+venue: "CVPR"
+arxiv: https://arxiv.org/pdf/1611.09224.pdf
+code: https://github.com/martin-danelljan/ECO
+---
+
+We tackle the key causes behind the problems of computational complexity and over-fitting in advanced DCF trackers. We introduce: (i) a factorized convolution operator, which drastically reduces the number of model parameters; (ii) a compact generative model of the training sample distribution; (iii) a conservative model update strategy. Our approach can operate at 60 Hz on a single CPU, while obtaining competitive tracking performance.
+
