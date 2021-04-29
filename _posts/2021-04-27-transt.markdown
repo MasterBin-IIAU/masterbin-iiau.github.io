@@ -4,7 +4,7 @@ title:  "Transformer Tracking"
 date:   2021-04-27
 image: /images/transt.png
 categories: research
-authors: "Xin Chen*, <strong>Bin Yan*</strong>, Jiawen Zhu, Dong Wang, Xiaoyun Yang, Huchuan Lu
+authors: "Xin Chen*, <strong>Bin Yan*</strong>, Jiawen Zhu, Dong Wang, Xiaoyun Yang, Huchuan Lu"
 venue: "CVPR"
 arxiv: https://arxiv.org/pdf/2103.15436.pdf
 code: https://github.com/chenxin-dlut/TransT#transt

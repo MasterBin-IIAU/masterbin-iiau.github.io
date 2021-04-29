@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "‘Skimming-Perusal’ Tracking: A Framework for Real-Time and Robust Long-term Tracking"
+date:   2021-04-29
+image: /images/splt.png
+categories: research
+authors: "<strong>Bin Yan*</strong>, Haojie Zhao*, Dong Wang, Huchuan Lu, Xiaoyun Yang"
+venue: "ICCV"
+arxiv: https://arxiv.org/pdf/1909.01840.pdf
+code: https://github.com/iiau-tracker/SPLT#splt
+---
+
+We present SPLT, a robust and real-time long-term tracking framework based on the skimming and perusal modules. The perusal module consists of an effective bounding box regressor and a robust target verifier. Besides, a novel skimming module is designed to speed up the image-wide global search. The proposed method runs in real-time and achieves the best performance on the VOT-2018 long-term and OxUvA long-term benchmarks.
