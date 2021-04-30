@@ -2,7 +2,7 @@
 layout: post
 title:  "LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search"
 date:   2021-04-29
-image: /images/lighttrack.png
+image: /images/1.png
 categories: research
 authors: "<strong>Bin Yan*</strong>, Houwen Peng*, Kan Wu*, Dong Wang, Jianlong Fu, Huchuan Lu"
 venue: "CVPR"

@@ -2,7 +2,7 @@
 layout: post
 title:  "Transformer Tracking"
 date:   2021-04-27
-image: /images/transt.png
+image: /images/1.png
 categories: research
 authors: "Xin Chen*, <strong>Bin Yan*</strong>, Jiawen Zhu, Dong Wang, Xiaoyun Yang, Huchuan Lu"
 venue: "CVPR"
