@@ -6,7 +6,7 @@ image: /images/1.png
 categories: research
 authors: "<strong>Bin Yan*</strong>, Houwen Peng*, Kan Wu*, Dong Wang, Jianlong Fu, Huchuan Lu"
 venue: "CVPR"
-arxiv: https://arxiv.org/pdf/2003.11540.pdf
+arxiv: https://arxiv.org/pdf/2104.14545.pdf
 code: https://github.com/researchmm/LightTrack#lighttrack
 ---
 
