@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation"
+title:  "[3] Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation"
 date:   2021-04-28
 image: /images/1.png
 categories: research
