@@ -5,7 +5,7 @@ date:   2025-06-13
 image: /images/1.png
 categories: research
 authors: "Jian Han, Jinlai Liu, Yi Jiang, <strong>Bin Yan</strong>, Yuqi Zhang, Zehuan Yuan, Bingyue Peng, Xiaobing Liu"
-venue: ""
+venue: "CVPR"
 arxiv: https://arxiv.org/pdf/2412.04431.pdf
 code: https://github.com/FoundationVision/Infinity
 ---
