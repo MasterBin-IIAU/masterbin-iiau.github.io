@@ -8,6 +8,7 @@ authors: "<strong>Bin Yan</strong>, Martin Sundermeyer, David Joseph Tan, Huchua
 venue: "WACV"
 arxiv: https://arxiv.org/pdf/2412.04434.pdf
 code: https://github.com/google-research/troyvis
+type: "Oral Presentation"
 ---
 
 We address the challenge of performing open-vocabulary video instance segmentation (OV-VIS) in real-time. We analyze the computational bottlenecks of state-of-the-art foundation models that performs OV-VIS, and propose a new method, TROY-VIS, that significantly improves processing speed while maintaining high accuracy. We introduce three key techniques: (1) Decoupled Attention Feature Enhancer to speed up information interaction between different modalities and scales; (2) Flash Embedding Memory for obtaining fast text embeddings of object categories; and, (3) Kernel Interpolation for exploiting the temporal continuity in videos. Our experiments demonstrate that TROY-VIS achieves the best trade-off between accuracy and speed on two large-scale OV-VIS benchmarks, BURST and LV-VIS, running 20x faster than GLEE-Lite (25 FPS v.s. 1.25 FPS) with comparable or even better accuracy. These results demonstrate TROY-VIS's potential for real-time applications in dynamic environments such as mobile robotics and augmented reality. 
