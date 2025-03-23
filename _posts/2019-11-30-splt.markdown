@@ -2,7 +2,7 @@
 layout: post
 title:  "[1]  ‘Skimming-Perusal’ Tracking: A Framework for Real-Time and Robust Long-term Tracking"
 date:   2019-11-30
-image: /images/1.png
+image: /images/splt.png
 categories: research
 authors: "<strong>Bin Yan*</strong>, Haojie Zhao*, Dong Wang, Huchuan Lu, Xiaoyun Yang"
 venue: "ICCV"

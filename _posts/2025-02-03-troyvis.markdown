@@ -2,7 +2,7 @@
 layout: post
 title:  "[9] Towards Real-Time Open-Vocabulary Video Instance Segmentation"
 date:   2025-02-03
-image: /images/1.png
+image: /images/TROY-VIS.png
 categories: research
 authors: "<strong>Bin Yan</strong>, Martin Sundermeyer, David Joseph Tan, Huchuan Lu, Federico Tombari"
 venue: "WACV"

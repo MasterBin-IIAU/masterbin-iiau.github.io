@@ -2,7 +2,7 @@
 layout: post
 title:  "[8]  Universal Instance Perception as Object Discovery and Retrieval"
 date:   2023-03-14
-image: /images/1.png
+image: /images/UNINEXT.png
 categories: research
 authors: "<strong>Bin Yan</strong>, Yi Jiang*, Jiannan Wu, Dong Wang*, Ping Luo, Zehuan Yuan, Huchuan Lu"
 venue: "CVPR"

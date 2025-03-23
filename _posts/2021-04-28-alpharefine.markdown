@@ -2,7 +2,7 @@
 layout: post
 title:  "[4]  Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation"
 date:   2021-04-28
-image: /images/1.png
+image: /images/alpharefine.png
 categories: research
 authors: "<strong>Bin Yan*</strong>, Xinyu Zhang*, Dong Wang, Huchuan Lu, Xiaoyun Yang"
 venue: "CVPR"

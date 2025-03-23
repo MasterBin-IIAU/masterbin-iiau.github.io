@@ -2,7 +2,7 @@
 layout: post
 title:  "[7]  Towards Grand Unification of Object Tracking"
 date:   2022-07-15
-image: /images/1.png
+image: /images/Unicorn.png
 categories: research
 authors: "<strong>Bin Yan</strong>, Yi Jiang*, Peize Sun, Dong Wang*, Zehuan Yuan, Ping Luo, Huchuan Lu"
 venue: "ECCV"

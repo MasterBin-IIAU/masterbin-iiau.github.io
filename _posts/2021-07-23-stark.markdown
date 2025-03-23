@@ -2,7 +2,7 @@
 layout: post
 title:  "[6]  Learning Spatio-Temporal Transformer for Visual Tracking"
 date:   2021-07-23
-image: /images/1.png
+image: /images/stark.png
 categories: research
 authors: "<strong>Bin Yan</strong>, Houwen Peng*, Jianlong Fu, Dong Wang*, Huchuan Lu"
 venue: "ICCV"
