@@ -8,6 +8,7 @@ authors: "Jian Han, Jinlai Liu, Yi Jiang, <strong>Bin Yan</strong>, Yuqi Zhang, 
 venue: "CVPR"
 arxiv: https://arxiv.org/pdf/2412.04431.pdf
 code: https://github.com/FoundationVision/Infinity
+type: "Oral Presentation"
 ---
 
 We present Infinity, a Bitwise Visual AutoRegressive Modeling capable of generating high-resolution, photorealistic images following language instruction. Infinity redefines visual autoregressive model under a bitwise token prediction framework with an infinite-vocabulary tokenizer & classifier and bitwise self-correction mechanism, remarkably improving the generation capacity and details. 
